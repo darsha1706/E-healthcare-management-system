@@ -26,4 +26,6 @@ public class EHospitalManagementApplication {
 				"7030750693", "Admin"));
 	}
 
+System.out.println("hii");
+
 }
